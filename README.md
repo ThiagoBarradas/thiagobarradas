@@ -15,11 +15,9 @@ See more in: https://medium.com/thiagobarradas
 <!--END_SECTION:waka-->
 
 ### Awards
-<div align="center">
 
 <a href="https://mvp.microsoft.com/pt-br/mvp/Thiago%20%20Barradas-5003579" target="_blank"><img height="220" src="https://i.imgur.com/ngzQLRS.png" alt="Microsoft MVP"></img></a> <a href="https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto" target="_blank"><img height="220" src="https://i.imgur.com/HJxs2PS.png" alt="Elastic Contributor"></img></a>
 
-</div>
 
 <hr>
 <div align="center">
