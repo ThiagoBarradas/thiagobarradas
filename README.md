@@ -6,10 +6,10 @@
 
 See more in: https://medium.com/thiagobarradas
 
+
 ### Stats
 
 ![ThiagoBarradas github stats](https://github-readme-stats.vercel.app/api?username=ThiagoBarradas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -18,6 +18,9 @@ See more in: https://medium.com/thiagobarradas
 
 <a href="https://mvp.microsoft.com/pt-br/mvp/Thiago%20%20Barradas-5003579" target="_blank"><img height="220" src="https://i.imgur.com/ngzQLRS.png" alt="Microsoft MVP"></img></a> <a href="https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto" target="_blank"><img height="220" src="https://i.imgur.com/HJxs2PS.png" alt="Elastic Contributor"></img></a>
 
+### Stack
+
+:construction:
 
 <hr>
 <div align="center">
