@@ -34,7 +34,7 @@ See more in: https://medium.com/thiagobarradas
 <!--END_SECTION:waka-->
 
 
-[![HitCount](http://hits.dwyl.com/thiagobarradas/thiagobarradas.svg)](http://hits.dwyl.com/thiagobarradas/thiagobarradas)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=thiagobarradas)
 
 <!--
 **ThiagoBarradas/thiagobarradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
