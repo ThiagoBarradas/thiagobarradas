@@ -14,10 +14,17 @@ See more in: https://medium.com/thiagobarradas
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### Awards
+<div align="center">
+
+<img height="220" src="https://i.imgur.com/ngzQLRS.png" alt="Microsoft MVP"></img>  
+<img height="220" src="https://i.imgur.com/NkyvVyW.png" alt="Elastic Contributor"></img> 
+
+</div>
 
 <hr>
 <div align="center">
-  
+ <br>
 
 <a href="https://www.linkedin.com/in/thiagobarradas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/thiagobarradas" target="_blank"><img src="https://img.shields.io/badge/Spotify-%23575757.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
@@ -27,10 +34,6 @@ See more in: https://medium.com/thiagobarradas
 <a href="https://open.spotify.com/user/22gv6ux35l2hrngr2clavmica" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=thiagobarradas)
 </div>
-
-
-
-
 
 <!--
 **ThiagoBarradas/thiagobarradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
