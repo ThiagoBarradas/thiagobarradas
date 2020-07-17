@@ -5,6 +5,12 @@
 See more in: https://medium.com/thiagobarradas
 
 
+#### Social
+
+[LinkedIn](https://www.linkedin.com/in/thiagobarradas/) | [Medium](https://medium.com/thiagobarradas) | [Instagram](
+https://www.instagram.com/_thiagobarradas/) | [Facebook](https://www.facebook.com/thbarradas) | [Twitter](https://twitter.com/_thiagobarradas)
+
+
 <!--
 **ThiagoBarradas/thiagobarradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +24,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+https://en.gravatar.com/avatar/4019d251fd2dd0773c8d0b50f3db2729?s=400
+
+https://medium.com/thiagobarradas 
+https://github.com/ThiagoBarradas 
+https://www.linkedin.com/in/thiagobarradas/
+https://twitter.com/_thiagobarradas 
+https://www.facebook.com/thbarradas 
+https://www.instagram.com/_thiagobarradas/
+
 -->
