@@ -25,7 +25,6 @@ See more in: https://medium.com/thiagobarradas
 <a href="https://www.facebook.com/thbarradas" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/_thiagobarradas" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/22gv6ux35l2hrngr2clavmica" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=thiagobarradas)
 </div>
 
