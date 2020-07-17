@@ -4,11 +4,22 @@
 
 See more in: https://medium.com/thiagobarradas
 
+### Stats
 
-#### Social
+![ThiagoBarradas github stats](https://github-readme-stats.vercel.app/api?username=ThiagoBarradas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[LinkedIn](https://www.linkedin.com/in/thiagobarradas/) | [Medium](https://medium.com/thiagobarradas) | [Instagram](
-https://www.instagram.com/_thiagobarradas/) | [Facebook](https://www.facebook.com/thbarradas) | [Twitter](https://twitter.com/_thiagobarradas)
+
+
+<hr>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiagobarradas"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/thiagobarradas"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://www.instagram.com/_thiagobarradas"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.facebook.com/thbarradas"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/_thiagobarradas"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://open.spotify.com/user/thiagobarradas"><img src="https://img.icons8.com/color/48/000000/spotify--v1.png" alt="spotify"/></a>
+</p>
 
 
 <!--
