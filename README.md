@@ -6,6 +6,9 @@
 
 See more in: https://medium.com/thiagobarradas
 
+<div align="center">
+<img src="https://i.imgur.com/LmYLy9y.png" alt=""></img>
+</div>
 
 ### Stats
 
