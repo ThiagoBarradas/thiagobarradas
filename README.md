@@ -1,4 +1,9 @@
-### Hi there 👋
+### Pleasure, my name is Thiago Barradas! 👋 
+
+"Carioca", addicted to technology, music and travel. Microsoft MVP, Elastic Official Contributor, Software engineer & architect .NET, focused in web technologies and payments and culturist of the habit of integrating and forming thinking heads. Bachelor of Computer Science and MIT Mobile Development. Community head of Inside Conf.
+
+See more in: https://medium.com/thiagobarradas
+
 
 <!--
 **ThiagoBarradas/thiagobarradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
