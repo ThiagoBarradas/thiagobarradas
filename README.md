@@ -15,6 +15,15 @@ See more in: https://medium.com/thiagobarradas
 ![ThiagoBarradas github stats](https://github-readme-stats.vercel.app/api?username=ThiagoBarradas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--START_SECTION:waka-->
+```text
+Week #29 : July 13 - 18
+
+Other       39 hrs 5 mins       ██████████████████████░░░   90.31% 
+C#          2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+YAML        1 hr 30 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+SQL         33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+JSON        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+```
 <!--END_SECTION:waka-->
 
 ### Awards
