@@ -16,8 +16,6 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2020 - 17 July, 2020
-
 Other       39 hrs 40 mins      ██████████████████████░░░   89.87 % 
 C#          2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 YAML        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
