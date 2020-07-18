@@ -16,13 +16,13 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
+Week: 10 July, 2020 - 17 July, 2020
 
-Other       39 hrs 5 mins       ██████████████████████░░░   90.31% 
-C#          2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-YAML        1 hr 30 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-SQL         33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-JSON        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Other       39 hrs 40 mins      ██████████████████████░░░   89.87 % 
+C#          2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.68 % 
+YAML        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.75 % 
+SQL         33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27 % 
+Markdown    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25 %
 ```
 <!--END_SECTION:waka-->
 
