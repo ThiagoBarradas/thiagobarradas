@@ -16,7 +16,7 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Other       41 hrs 27 mins      ██████████████████████░░░   90.26 % 
+Other       41 hrs 25 mins      ██████████████████████░░░   90.18 % 
 C#          2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 YAML        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 SQL         33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
