@@ -16,11 +16,11 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Other                      7 hrs 11 mins   █████████████░░░░░░░░░░░░   51.61 % 
-C#                         4 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.42 % 
-JSON                       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Nginx configuration file   28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-SQL                        20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Other                      6 hrs 7 mins    ██████████████░░░░░░░░░░░   56.88 % 
+C#                         3 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   32.41 % 
+Nginx configuration file   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+SQL                        20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 <!--END_SECTION:waka-->
 
