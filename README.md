@@ -16,8 +16,9 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Other      44 hrs 8 mins   ████████████████████████░   96.13 % 
-C#         1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Other                      55 hrs 10 mins  ████████████████████████░   96.12 % 
+C#                         2 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Nginx configuration file   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
