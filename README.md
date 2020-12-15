@@ -16,10 +16,10 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Other      31 hrs 55 mins  █████████████████████▓░░░   86.64 % 
-C#         4 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Markdown   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-SQL        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other      34 hrs 11 mins  ██████████████████████▓░░   90.80 % 
+C#         3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Markdown   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+SQL        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 <!--END_SECTION:waka-->
 
