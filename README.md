@@ -16,9 +16,8 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Other   35 hrs 59 mins  ████████████████████████▒   96.82 % 
-C#      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-SQL     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other   37 hrs 11 mins  ████████████████████████▒   97.64 % 
+C#      53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 <!--END_SECTION:waka-->
 
