@@ -16,8 +16,8 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Other   23 hrs 41 mins  ████████████████████████▒   97.32 % 
-C#      39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Other   12 hrs 45 mins  ███████████████████████▓░   95.33 % 
+C#      37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 <!--END_SECTION:waka-->
 
