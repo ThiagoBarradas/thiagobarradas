@@ -16,10 +16,10 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-C#           2 hrs 19 mins   ███████████████▓░░░░░░░░░   62.70 % 
-Other        56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.19 % 
-Markdown     24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+C#           1 hr 43 mins    ██████████████░░░░░░░░░░░   55.58 % 
+Other        55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.97 % 
+Markdown     24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 <!--END_SECTION:waka-->
 
