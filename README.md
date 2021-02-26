@@ -16,10 +16,10 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-C#      6 hrs 10 mins   ██████████████████░░░░░░░   72.66 % 
-Other   1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-JSON    35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-YAML    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+C#      3 hrs 9 mins    ██████████████████▒░░░░░░   73.09 % 
+Other   58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 % 
+JSON    10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+YAML    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 
