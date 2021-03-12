@@ -16,11 +16,11 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-C#           12 hrs 20 mins  ██████████████████▓░░░░░░   75.25 % 
-Other        2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-JSON         1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-JavaScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Docker       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+C#           10 hrs 47 mins  █████████████████▒░░░░░░░   69.52 % 
+Other        2 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+JSON         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+JavaScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
 
