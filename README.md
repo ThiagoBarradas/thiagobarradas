@@ -16,10 +16,7 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Other   1 hr 37 mins    ███████████░░░░░░░░░░░░░░   43.69 % 
-C#      1 hr 24 mins    █████████▓░░░░░░░░░░░░░░░   38.09 % 
-JSON    20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-YAML    19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
