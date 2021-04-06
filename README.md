@@ -16,7 +16,9 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java    16 mins         ██████████████▓░░░░░░░░░░   58.83 % 
+Other   10 mins         █████████▒░░░░░░░░░░░░░░░   36.92 % 
+YAML    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 <!--END_SECTION:waka-->
 
