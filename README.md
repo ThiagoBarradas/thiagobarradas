@@ -16,9 +16,10 @@ See more in: https://medium.com/thiagobarradas
 
 <!--START_SECTION:waka-->
 ```text
-Java    1 hr 35 mins    █████████████████████░░░░   83.58 % 
-Other   17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-YAML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Java    2 hrs 59 mins   ████████████████████▓░░░░   82.81 % 
+Other   26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Bash    9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+YAML    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
 
