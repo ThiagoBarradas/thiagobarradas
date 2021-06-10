@@ -2,7 +2,7 @@
 
 ### Pleasure, my name is Thiago Barradas! 👋 
 
-"Carioca", addicted to technology, music and travel. Microsoft MVP, Elastic Official Contributor, Software engineer & architect .NET, focused in web technologies and payments and culturist of the habit of integrating and forming thinking heads. Bachelor of Computer Science and MIT Mobile Development. Community head of Inside Conf.
+"Carioca", addicted to technology, music and travel. Microsoft MVP, Elastic Official Contributor, IT Engineering Lead / Architect / .NET Specialist, focused in web technologies and payments and culturist of the habit of integrating and forming thinking heads. Bachelor of Computer Science and MIT Mobile Development. Community head of Inside Conf.
 
 See more in: https://medium.com/thiagobarradas
 
