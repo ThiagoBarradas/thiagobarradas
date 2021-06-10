@@ -10,23 +10,17 @@ See more in: https://medium.com/thiagobarradas
 <img src="https://i.imgur.com/LmYLy9y.png" alt=""></img>
 </div>
 
-### Stats
-
-![ThiagoBarradas github stats](https://github-readme-stats.vercel.app/api?username=ThiagoBarradas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<!--START_SECTION:waka-->
-```text
-Other   40 hrs 38 mins  ███████████████████████▒░   93.90 % 
-C#      1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-YAML    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-JSON    14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-SQL     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
-<!--END_SECTION:waka-->
-
 ### Awards
 
 <a href="https://mvp.microsoft.com/pt-br/mvp/Thiago%20%20Barradas-5003579" target="_blank"><img height="220" src="https://i.imgur.com/ngzQLRS.png" alt="Microsoft MVP"></img></a> <a href="https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto" target="_blank"><img height="220" src="https://i.imgur.com/HJxs2PS.png" alt="Elastic Contributor"></img></a>
+
+### Stats
+
+![ThiagoBarradas github stats](https://github-readme-stats.vercel.app/api?username=ThiagoBarradas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoBarradas&show_icons=true&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBarradas&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=php,css,shell,html&layout=compact)
 
 ### Stack
 
