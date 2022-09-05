@@ -27,10 +27,6 @@ See more in: https://medium.com/thiagobarradas
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thiagobarradas&width=300)
 -->
 
-### Stack
-
-:construction:
-
 <hr>
 <div align="center">
  <br>
